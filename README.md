@@ -11,9 +11,6 @@ watchlist, and sync preferences across devices.
 Browse and discover a wide selection of movies with detailed information, ratings,
 and trailers, also Explore popular TV shows, complete with episode guides, cast
 information, and recommendations.
-### - Payment gateway
-Enables users to make secure payments within the app for unlocking premium
-content and some features.
 ### - Watchlist & Favourite
 Save movies & shows to watch later by adding them to your personalized watchlist.
 Mark your favorite movies & shows to easily revisit them whenever you like.
