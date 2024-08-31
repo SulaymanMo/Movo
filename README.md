@@ -1,4 +1,4 @@
-### Movo
+# Movo
 Movo is a comprehensive entertainment app that will be developed using Flutter,
 utilizing APIs provided by TMDB (The Movie Database). it’s designed to streamline
 how users discover and enjoy movies and TV shows. With a user-friendly interface
