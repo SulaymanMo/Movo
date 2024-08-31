@@ -4,10 +4,10 @@ utilizing APIs provided by TMDB (The Movie Database). it’s designed to streaml
 how users discover and enjoy movies and TV shows. With a user-friendly interface
 and a range of powerful features. Here some features below:
 
-### - Register and Login
+### - Register & Login
 Securely create an account or sign in to personalize your experience, access your
 watchlist, and sync preferences across devices.
-### - Movies & Ser
+### - Movies & Search
 Browse and discover a wide selection of movies with detailed information, ratings,
 and trailers, also Explore popular TV shows, complete with episode guides, cast
 information, and recommendations.
